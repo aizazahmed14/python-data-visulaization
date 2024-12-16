@@ -29,8 +29,8 @@ This tutorial covers the basics of **Matplotlib** and **Seaborn**, two essential
   pip install matplotlib seaborn
 
 # 📄 Code Examples
-## Matplotlib Example: Line Plot
-   ```bash
+### Matplotlib Example: Line Plot
+      ```bash
       import matplotlib.pyplot as plt  
 
       x = [1, 2, 3, 4, 5]  
@@ -41,4 +41,6 @@ This tutorial covers the basics of **Matplotlib** and **Seaborn**, two essential
       plt.xlabel('X-axis')  
       plt.ylabel('Y-axis')  
       plt.legend()  
-      plt.show()  
+      plt.show()
+
+# Seaborn Example: Boxplot
