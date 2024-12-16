@@ -66,10 +66,9 @@ Follow for more data science projects: (https://github.com/aizazahmed14)
 # License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-Happy coding! 🚀
+# Happy coding! 🚀
 
 ```bash
-
 Let me know if you want a specific link placeholder updated or additional sections!
 
 # 💡 Contribute
