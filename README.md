@@ -44,13 +44,24 @@ This tutorial covers the basics of **Matplotlib** and **Seaborn**, two essential
       plt.show()
 
 ### Seaborn Example: Boxplot
-   ```bash
-   import seaborn as sns  
-   import matplotlib.pyplot as plt  
+      ```bash
+      import seaborn as sns  
+      import matplotlib.pyplot as plt  
 
-   data = [10, 20, 25, 30, 35, 40, 45]  
+      data = [10, 20, 25, 30, 35, 40, 45]  
 
-   sns.boxplot(x=data)  
-   plt.title('Boxplot Example')  
-   plt.show()  
+      sns.boxplot(x=data)  
+      plt.title('Boxplot Example')  
+      plt.show()  
 
+
+# 📚 Resources and Documentation
+Matplotlib Documentation
+Seaborn Documentation
+# 🌟 Stay Connected
+Watch the full tutorial on YouTube: (https://youtu.be/dnoywCnR-Hw)
+Follow for more data science projects: (https://github.com/aizazahmed14)
+
+
+# 💡 Contribute
+Feel free to fork this repository, improve the code, or share your ideas. Pull requests are welcome!
