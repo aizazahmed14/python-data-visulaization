@@ -63,5 +63,14 @@ Watch the full tutorial on YouTube: (https://youtu.be/dnoywCnR-Hw)
 Follow for more data science projects: (https://github.com/aizazahmed14)
 
 
+# License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+Happy coding! 🚀
+
+```bash
+
+Let me know if you want a specific link placeholder updated or additional sections!
+
 # 💡 Contribute
 Feel free to fork this repository, improve the code, or share your ideas. Pull requests are welcome!
